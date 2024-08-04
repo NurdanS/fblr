@@ -1,6 +1,7 @@
 # fblr (Fast Binary Logistic Regression)
-The data sets used in the study have been converted to numpy format and are presented in the Data folder.
-By extracting the multipart zip files to the folder named Data, you can test on the numpy versions of all data sets used in the fblr study.
+All datasets (in numpy format) used in the tests can be downloaded in a single zip file from the following link (approximate file size 1.2GB):
+https://msserver.cankaya.edu.tr/Data.zip
+
 The original data sets can be accessed from the links below:
 1. hepmass: https://archive.ics.uci.edu/dataset/347/hepmass
 2. kits: https://www.openml.org/search?type=data&status=active&id=42809
